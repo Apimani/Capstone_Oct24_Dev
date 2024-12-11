@@ -18,18 +18,6 @@
     <last_updated>2024-09-03</last_updated>
   </item>
   <item>
-    <product_id>104</product_id>
-    <store_id>2</store_id>
-    <quantity_on_hand>20</quantity_on_hand>
-    <last_updated>2024-09-04</last_updated>
-  </item>
-  <item>
-    <product_id>105</product_id>
-    <store_id>1</store_id>
-    <quantity_on_hand>60</quantity_on_hand>
-    <last_updated>2024-09-05</last_updated>
-  </item>
-  <item>
     <product_id>106</product_id>
     <store_id>3</store_id>
     <quantity_on_hand>25</quantity_on_hand>
@@ -144,12 +132,6 @@
     <last_updated>2024-09-24</last_updated>
   </item>
   <item>
-    <product_id>105</product_id>
-    <store_id>1</store_id>
-    <quantity_on_hand>100</quantity_on_hand>
-    <last_updated>2024-09-25</last_updated>
-  </item>
-  <item>
     <product_id>106</product_id>
     <store_id>2</store_id>
     <quantity_on_hand>110</quantity_on_hand>
@@ -197,10 +179,5 @@
     <quantity_on_hand>180</quantity_on_hand>
     <last_updated>2024-10-03</last_updated>
   </item>
-  <item>
-    <product_id>104</product_id>
-    <store_id>10</store_id>
-    <quantity_on_hand>190</quantity_on_hand>
-    <last_updated>2024-10-04</last_updated>
-  </item>
+
 </inventory>
